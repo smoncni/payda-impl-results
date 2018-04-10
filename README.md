@@ -1,0 +1,1 @@
+Raw data for measurements of SDR-based validation of the Payload-size and Deadline-aware (PayDA) scheduling algorithm
